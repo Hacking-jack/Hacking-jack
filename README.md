@@ -60,7 +60,7 @@ Module options (skills/languages):
 
    Name           Current Setting   Required   Description
    ----           ---------------   --------   -----------
-   C              avanzado          yes        Sistemas, hardware, bajo nivel
+   C              solido          yes        Sistemas, hardware, bajo nivel
    JAVA           sólido            yes        POO, aplicaciones
    JAVASCRIPT     sólido            yes        Web y frameworks
    REACT          sólido            yes        Frontend moderno
@@ -92,7 +92,7 @@ Module options (skills/languages):
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&hide_border=true&background=0d1117&ring=ff3b3b&fire=ff3b3b&currStreakLabel=ff3b3b" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hacking-jack&theme=radical&hide_border=true&background=0d1117&ring=ff3b3b&fire=ff3b3b&currStreakLabel=ff3b3b" alt="streak" />
 </p>
 
 <p align="center">
@@ -107,7 +107,7 @@ Module options (skills/languages):
 ## `msf6 > sessions -i contacto`
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Daniel%20Rodr%C3%ADguez-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/daniel-rodriguez-de-la-calle/"><img src="https://img.shields.io/badge/LinkedIn-Daniel%20Rodr%C3%ADguez-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Hacking-jack"><img src="https://img.shields.io/badge/GitHub-Hacking--jack-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
