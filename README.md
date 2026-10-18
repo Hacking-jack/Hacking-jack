@@ -37,7 +37,7 @@ Metasploit tip: el mejor exploit es seguir aprendiendo.
        Arch: C, Java, JS, C++
  Disclosure: ETSISI - Universidad Politécnica de Madrid
     Alumni : Open 42
-      Club : Ciberseguridad
+      Club : CiberCore
 ```
 
 - 🎓 Estudiante de **Ingeniería de Sistemas de Información** en la **ETSISI (UPM)**
