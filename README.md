@@ -102,7 +102,6 @@ Module options (skills/languages):
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hacking-jack&theme=redical&bg_color=0d1117&hide_border=true&color=ff3b3b&line=ff3b3b&point=ffffff" alt="activity graph" />
 </p>
-
 ---
 
 ## `msf6 > sessions -i contacto`
