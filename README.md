@@ -60,7 +60,7 @@ Module options (skills/languages):
 
    Name           Current Setting   Required   Description
    ----           ---------------   --------   -----------
-   C              solido          yes        Sistemas, hardware, bajo nivel
+   C              solido            yes        Sistemas, hardware, bajo nivel
    JAVA           sólido            yes        POO, aplicaciones
    JAVASCRIPT     sólido            yes        Web y frameworks
    REACT          sólido            yes        Frontend moderno
