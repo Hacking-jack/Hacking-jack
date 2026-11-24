@@ -42,7 +42,7 @@ Metasploit tip: el mejor exploit es seguir aprendiendo.
 
 - 🎓 Estudiante de **Ingeniería de Sistemas de Información** en la **ETSISI (UPM)**
 - 🏫 Exestudiante de **Open 42**
-- 🛡️ Miembro de un **Core Dumped**
+- 🛡️ Miembro de **Core Dumped**
 - 🔧 Me muevo entre el bajo nivel (**C, hardware**) y el desarrollo web (**React** y otros frameworks)
 - 📱 Dando mis primeros pasos en **desarrollo multiplataforma**
 - ➕ Aprendiendo **C++**
